@@ -188,7 +188,6 @@
            name="chromiumos/platform/microbenchmarks" revision="refs/heads/firmware-zork-13421.B" />
   <project path="src/platform/minigbm" name="chromiumos/platform/minigbm" revision="refs/heads/firmware-zork-13421.B" />
   <project path="src/platform/moblab"
-           groups="moblab"
            name="chromiumos/platform/moblab" revision="refs/heads/firmware-zork-13421.B" />
   <project path="src/platform/mosys" name="chromiumos/platform/mosys" revision="refs/heads/firmware-zork-13421.B" />
   <project path="src/platform/mttools" name="chromiumos/platform/mttools" revision="refs/heads/firmware-zork-13421.B" />
